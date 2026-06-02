@@ -7,6 +7,7 @@ This repository documents an ongoing independent research program examining the 
 | # | Case ID | Domain | Title | Models Tested | Result |
 |---|---|---|---|---|---|
 | 1 | [ORTHO-001](cases/ortho/revision-arthroplasty-borderline-inflammatory-markers.md) | Orthopedic pre-authorization | Revision Arthroplasty — Borderline Inflammatory Markers | GPT-5.3, Gemini Flash | Full failure (GPT-5.3) / Pass (Gemini Flash) |
+| 2 | [ARDGR-001](cases/ar-drg/ar-drg-coding-validation-acute-on-chronic-knee.md) | AR-DRG inpatient coding validation | AR-DRG Coding Validation — Acute-on-Chronic Knee, Seven Concurrent Integrity Challenges | Gemini Flash, GPT-5.3, Kimi K2.6 Instant | Principal inflation rejected by all; reasoning quality varied (Kimi best, GPT-5.3 internally inconsistent) |
 
 ## Note
 
